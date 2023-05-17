@@ -1,0 +1,71 @@
+20:37:39.454 [main] INFO  testCases.LoginTest - Clicked login button
+17:02:03.768 [main] INFO  testCases.AccRegistrationTest - ***  Starting AccountRegistrationTest ***
+17:02:06.530 [main] INFO  testCases.AccRegistrationTest - clicked on register link
+17:02:08.619 [main] INFO  testCases.AccRegistrationTest - selected gender
+17:02:10.717 [main] INFO  testCases.AccRegistrationTest - Enter first name
+17:02:12.832 [main] INFO  testCases.AccRegistrationTest - Enter last name
+17:02:15.489 [main] INFO  testCases.AccRegistrationTest - Set date
+17:02:17.749 [main] INFO  testCases.AccRegistrationTest - Set month
+17:02:22.527 [main] INFO  testCases.AccRegistrationTest - Set Year
+17:02:24.675 [main] INFO  testCases.AccRegistrationTest - Set eamil
+17:02:26.823 [main] INFO  testCases.AccRegistrationTest - Enter password
+17:02:28.975 [main] INFO  testCases.AccRegistrationTest - Confirm password
+17:02:32.024 [main] INFO  testCases.AccRegistrationTest - Clicked on register button
+17:02:34.093 [main] INFO  testCases.AccRegistrationTest - validating Expected msg
+17:02:38.789 [main] INFO  testCases.AccRegistrationTest - Clicked continue button
+17:02:40.898 [main] INFO  testCases.AccRegistrationTest - validated logo
+17:02:40.925 [main] INFO  testCases.AccRegistrationTest - captured title
+17:02:40.925 [main] INFO  testCases.AccRegistrationTest - ***  Finished AccountRegistrationTest ***
+17:02:45.487 [main] INFO  testCases.LoginTest -  ***Starting Login test*** 
+17:02:49.018 [main] INFO  testCases.LoginTest - Clicked on login link
+17:02:49.024 [main] INFO  testCases.LoginTest - Providing login details
+17:02:50.183 [main] INFO  testCases.LoginTest - Entered Email
+17:02:51.323 [main] INFO  testCases.LoginTest - Entered Password
+17:02:53.006 [main] INFO  testCases.LoginTest - Clicked login button
+17:08:06.521 [main] INFO  testCases.AccRegistrationTest - ***  Starting AccountRegistrationTest ***
+17:08:10.104 [main] INFO  testCases.AccRegistrationTest - clicked on register link
+17:08:12.197 [main] INFO  testCases.AccRegistrationTest - selected gender
+17:08:14.309 [main] INFO  testCases.AccRegistrationTest - Enter first name
+17:08:16.412 [main] INFO  testCases.AccRegistrationTest - Enter last name
+17:08:19.043 [main] INFO  testCases.AccRegistrationTest - Set date
+17:09:03.467 [main] INFO  testCases.LoginTest -  ***Starting Login test*** 
+17:09:06.342 [main] INFO  testCases.LoginTest - Clicked on login link
+17:09:06.344 [main] INFO  testCases.LoginTest - Providing login details
+17:09:07.473 [main] INFO  testCases.LoginTest - Entered Email
+17:09:08.619 [main] INFO  testCases.LoginTest - Entered Password
+17:09:10.345 [main] INFO  testCases.LoginTest - Clicked login button
+17:11:52.317 [main] INFO  testCases.LoginTest -  ***Starting Login test*** 
+17:11:55.085 [main] INFO  testCases.LoginTest - Clicked on login link
+17:11:55.086 [main] INFO  testCases.LoginTest - Providing login details
+17:11:56.207 [main] INFO  testCases.LoginTest - Entered Email
+17:11:57.383 [main] INFO  testCases.LoginTest - Entered Password
+17:11:59.121 [main] INFO  testCases.LoginTest - Clicked login button
+17:14:09.236 [main] INFO  testCases.AccRegistrationTest - ***  Starting AccountRegistrationTest ***
+17:14:12.751 [main] INFO  testCases.AccRegistrationTest - clicked on register link
+17:14:14.858 [main] INFO  testCases.AccRegistrationTest - selected gender
+17:14:16.996 [main] INFO  testCases.AccRegistrationTest - Enter first name
+17:14:19.120 [main] INFO  testCases.AccRegistrationTest - Enter last name
+17:14:21.813 [main] INFO  testCases.AccRegistrationTest - Set date
+17:14:24.161 [main] INFO  testCases.AccRegistrationTest - Set month
+17:14:28.455 [main] INFO  testCases.AccRegistrationTest - Set Year
+17:14:30.576 [main] INFO  testCases.AccRegistrationTest - Set eamil
+17:14:32.703 [main] INFO  testCases.AccRegistrationTest - Enter password
+17:14:34.708 [main] INFO  testCases.AccRegistrationTest - Confirm password
+17:14:36.796 [main] INFO  testCases.AccRegistrationTest - Clicked on register button
+17:14:48.874 [main] INFO  testCases.AccRegistrationTest - validating Expected msg
+13:30:05.961 [main] INFO  testCases.AccRegistrationTest - ***  Starting AccountRegistrationTest ***
+13:30:09.189 [main] INFO  testCases.AccRegistrationTest - clicked on register link
+13:30:12.302 [main] ERROR testCases.AccRegistrationTest - test failed
+13:34:48.259 [main] INFO  testCases.AccRegistrationTest - ***  Starting AccountRegistrationTest ***
+13:34:51.474 [main] INFO  testCases.AccRegistrationTest - clicked on register link
+13:34:53.552 [main] INFO  testCases.AccRegistrationTest - selected gender
+13:34:55.650 [main] INFO  testCases.AccRegistrationTest - Enter first name
+13:34:57.792 [main] INFO  testCases.AccRegistrationTest - Enter last name
+13:35:00.677 [main] INFO  testCases.AccRegistrationTest - Set date
+13:35:02.968 [main] INFO  testCases.AccRegistrationTest - Set month
+13:35:06.930 [main] INFO  testCases.AccRegistrationTest - Set Year
+13:35:09.130 [main] INFO  testCases.AccRegistrationTest - Set eamil
+13:35:11.279 [main] INFO  testCases.AccRegistrationTest - Enter password
+13:35:13.281 [main] INFO  testCases.AccRegistrationTest - Confirm password
+13:35:15.375 [main] INFO  testCases.AccRegistrationTest - Clicked on register button
+13:35:27.479 [main] INFO  testCases.AccRegistrationTest - validating Expected msg

@@ -1,0 +1,2 @@
+cd D:\SOFTWARE TESTING\WORKSPACE\OpenCart
+mvn test
